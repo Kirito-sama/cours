@@ -1,0 +1,24 @@
+Download/Create a local repo :
+	- $git clone
+	- $git init
+
+Checking what's changed :
+	- $git status
+	- $git log
+
+Storing edits :
+	- $git add
+	- $git commit
+
+Updating your local repo :
+	- $git pull / $git fetch
+	- $git branch
+	- $git merge
+
+Storing changes offsite/offbox :
+	- $git commit
+	- $git push
+
+Storing changes offsite/offbox :
+	- $git tag
+	- $git push

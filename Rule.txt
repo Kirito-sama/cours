@@ -1,0 +1,3 @@
+As a rule of Thumb :
+	- Commit every hour !
+	- Push every day !
